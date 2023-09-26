@@ -23,16 +23,11 @@ $ bun create hono
 ✔ Copied project files
 ```
 
-``
+```
 bun install
 bun run dev
-
 ```
 
 ```
-
 open http://localhost:3000
-
-```
-
 ```
